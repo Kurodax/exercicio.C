@@ -36,3 +36,11 @@ int main(){
 	  	
 return 0;
 }
+
+
+/*- Uma empresa irá dar um aumento salarial aos seus funcionários de acordo com a categoria de cada
+empregado. O aumento seguirá a seguinte regra:
+• Funcionários das categorias A, C, F, e H ganharão 10% de aumento sobre o salário;
+• Funcionários das categorias B, D, E, I, J e T ganharão 15% de aumento sobre o salário;
+• Funcionários das categorias K e R ganharão 25% de aumento sobre o salário; aZ
+Obs.: Todos os exercícios devem ser resolvidos utilizando operadores lógicos. */
